@@ -1,3 +1,5 @@
+<h2 align="center">Olá! Eu sou o Lucas. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **<img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">**
