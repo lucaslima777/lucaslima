@@ -1,6 +1,8 @@
 <h2 align="center">Olá! Eu sou o Lucas. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+<br />
 
 ### Skills
 <p>
@@ -23,31 +25,12 @@
 
 <br />
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaslima777&hide=contribs,prs&show_icons=true)
-
-### Spotify 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/04s5bCT9kaQ3ox8YZgF4PT)
-
-<br />
-
 ### Conecte-se comigo:
 
 [<img align="left" alt="LucasLima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LucasLima | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="LucasLima | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="LucasLima | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-
-
-
-
-
-
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/lucas-lima-torre/
