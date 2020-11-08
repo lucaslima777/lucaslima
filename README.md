@@ -24,6 +24,7 @@
 </p>
 
 <br />
+<br />
 
 <p align="center">
     <a href="https://github.com/lucaslima777" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@lucaslima-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
