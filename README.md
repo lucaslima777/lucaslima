@@ -6,6 +6,8 @@
 lucas.apply {
         occupation = "Mobile Software Engineer".plus(Pleno)
         skills = listOf(Kotlin, Java, Gradle, Swift, Git)
+        currentlyLearning = mutableListOf("Flutter", "BackEnd", "Neuroscience")
+        toolsUsing = mutableListOf("Jenkins", "AWS", "Splunk", "SonarQube", "Jira")
         likeCoffe = true
     }.runCatching {
         drinkCoffee()
