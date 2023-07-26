@@ -4,7 +4,7 @@
   
 ```kotlin
 lucas.apply {
-        occupation = "Mobile Software Engineer".plus(Pleno)
+        occupation = "Mobile Software Engineer"
         skills = listOf(Kotlin, Java, Gradle, Swift, Git)
         currentlyLearning = mutableListOf("Flutter", "BackEnd", "Neuroscience")
         toolsUsing = mutableListOf("Jenkins", "AWS", "Splunk", "SonarQube", "Jira")
